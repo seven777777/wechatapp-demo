@@ -1,0 +1,10 @@
+/**index.wxss**/
+.demo_item{
+  width: 45%;
+  margin-top: 30rpx;
+  height: 160rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2rpx 2rpx 10rpx rgba(0,0,0,.5);
+}

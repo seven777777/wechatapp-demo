@@ -1,0 +1,31 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/test/test",
+    "pages/canvas/canvas",
+    "pages/mock/mock"
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "目录"
+    },{
+      "pagePath": "pages/test/test",
+      "text": "test"
+    },{
+      "pagePath": "pages/canvas/canvas",
+      "text": "canvas"
+    }],
+    "color": "#333",
+    "selectedColor": "#f7982a",
+    "backgroundColor": "#f6f6f6",
+    "position": "top",
+    "borderStyle": "white"
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2798e3",
+    "navigationBarTitleText": "wechatapp-demo",
+    "navigationBarTextStyle":"white"
+  }
+}

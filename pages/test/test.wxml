@@ -1,0 +1,10 @@
+<view class="animation"></view>
+<view class='example_wrap'>
+  <view class='view_example1'></view>
+  <view class='view_example2'></view>
+  
+  <view>{{number}}</view>
+  <button bindtap="start">start</button>
+  <view>{{number2}}</view>
+  <button bindtap="start2">start</button>
+</view>

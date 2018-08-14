@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <navigator class='demo_item' url="../canvas/canvas" open-type="switchTab">Canvas 倒计时</navigator>
+  <navigator class='demo_item' url="../mock/mock">Mock</navigator>
+  <navigator class='demo_item' url="../mock/mock">Mock</navigator>
+  <!-- <navigator class='demo_item' url="../canvas/canvas" open-type="switchTab">Canvas 倒计时</navigator> -->
+</view>

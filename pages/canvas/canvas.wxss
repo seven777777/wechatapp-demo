@@ -1,0 +1,8 @@
+page{
+  background: #8C33D0;
+}
+.countDown_canvas{
+    width: 151rpx;
+    height: 151rpx;
+    margin: 0 auto;
+}
