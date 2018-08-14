@@ -7,7 +7,7 @@ Page({
     spaceNum: 1000, //文字倒计时间隔
     space: 10, //环倒计时间隔
   },
-  onLoad(){
+  onShow(){
     this.countdown();
   },
   //canvas画圆环
